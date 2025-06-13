@@ -9,7 +9,13 @@
     "@josephadogeridev/use-results-js",
     "hook",
     "reactjs",
-    "api"
+    "api",
+    "useResults",
+    "react",
+    "react-native",
+    "electron",
+    "reactjs",
+    "electronjs"
   ],
   "homepage": "https://github.com/jadogeri/useResults-JS#readme",
   "bugs": {
